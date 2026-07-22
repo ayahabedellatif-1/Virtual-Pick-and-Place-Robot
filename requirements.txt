@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+ultralytics
 opencv-python 
 scipy 
-numpy 
-=======
-opencv-python 
-scipy 
-numpy 
->>>>>>> c7fe8420bc3533735cba08844f8a79183773fb58
+numpy
+ 
